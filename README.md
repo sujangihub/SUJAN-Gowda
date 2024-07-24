@@ -1,8 +1,7 @@
 💫 About Me:
 
 My Name is SUJAN_GOWDA_N
-
-🎓i am currently studying IN BCA<br>     i am looking to collaborate on <br>     i am looking for help with<br>     i am currently learning <br>     Ask me about <br>     Fun fact <br>
+🎓i am currently studying  <br>  i am interested in full stack developer <br>   i am looking to collaborate on <br>     i am looking for help with<br>     i am currently learning <br>     Ask me about <br>     Fun fact <br>
 
 
 ## 🌐 Socials:
