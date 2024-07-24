@@ -1,5 +1,7 @@
 💫 About Me: 👨‍🎓 
-MY Name is Sujan_Gowda_N <br>
+
+MY Name is Sujan_Gowda_N <br
+                           
 🎓 i am interested in full stack developer <br>   i am looking to collaborate on <br>     i am looking for help with<br>     i am currently learning <br>     Ask me about <br>     Fun fact <br>
 
 
